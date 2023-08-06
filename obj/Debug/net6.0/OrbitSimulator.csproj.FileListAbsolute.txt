@@ -1,0 +1,15 @@
+C:\francoisdev\C#\orbit\OrbitSimulator\bin\Debug\net6.0\OrbitSimulator.exe
+C:\francoisdev\C#\orbit\OrbitSimulator\bin\Debug\net6.0\OrbitSimulator.deps.json
+C:\francoisdev\C#\orbit\OrbitSimulator\bin\Debug\net6.0\OrbitSimulator.runtimeconfig.json
+C:\francoisdev\C#\orbit\OrbitSimulator\bin\Debug\net6.0\OrbitSimulator.dll
+C:\francoisdev\C#\orbit\OrbitSimulator\bin\Debug\net6.0\OrbitSimulator.pdb
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.csproj.AssemblyReference.cache
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.AssemblyInfoInputs.cache
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.AssemblyInfo.cs
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.csproj.CoreCompileInputs.cache
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.dll
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\refint\OrbitSimulator.dll
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.pdb
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\OrbitSimulator.genruntimeconfig.cache
+C:\francoisdev\C#\orbit\OrbitSimulator\obj\Debug\net6.0\ref\OrbitSimulator.dll
